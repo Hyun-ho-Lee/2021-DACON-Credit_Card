@@ -51,7 +51,6 @@
 - 카드를 발급 받은 시점의 나이 : DAYS_BIRTH - begin_month
 
 ## 3. 인코딩
-![image](https://user-images.githubusercontent.com/72376781/122714891-0a586700-d2a3-11eb-9edb-7cc090f2b1c9.png)
 
 unique한 값이 2 이하인 gender, car, reality는 label encoding 방법을 채택하고, 2개를 넘는 변수들은 one-hot encoding 방법을 채택함.
 
